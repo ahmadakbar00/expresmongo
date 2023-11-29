@@ -1,4 +1,4 @@
-# start mongodb 
+# Start Mongodb 
 - ./bin/mongod --dbpath=data
   
 # Database Connection
